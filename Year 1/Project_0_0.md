@@ -26,7 +26,7 @@ Film with whatever you have at hand within your teams. i.e Mobile phone camera, 
 We will review your films on 3rd October at 14.00 in The Games Studio.
 
 ### Learning Outcomes
-Please refer to the module descriptions in your Semester 01 guide where the Learning Outcomes for this module are listed in full.
+Please refer to the module descriptions where the Learning Outcomes for this module are listed in full.
 
 ## Aside
 
@@ -39,6 +39,32 @@ Camera/ Smart Phone/ Tablet/ Pencil/ Sketchbook/ gifboom/ Soundcloud/ iPhoto/ iM
 - https://www.ica.org.uk/archive/film
 - http://www.dca.org.uk/whats-on/event/cin-jeune-international-film-festival-shorts
 - http://www.channel4.com/search/page-4?q=short%20films
+- http://cameo.tv
+
+### Resource Tips 
+
+Vimeo Video School
+http://vimeo.com/videoschool/101
+
+Cameo by Vimeo, LLC
+https://appsto.re/gb/_tRSQ.i
+
+Magisto Video Editor & Maker
+https://play.google.com/store/apps/details?id=com.magisto
+
+Online web video editor
+https://popcorn.webmaker.org
+
+GifBoom by TapMojo LLC
+https://appsto.re/gb/L_orB.i
+
+SoundCloud - Music & Audio by SoundCloud Ltd.
+https://appsto.re/gb/_Dfdu.i
+
+Creative Commons licensed music
+http://jamendo.com
+http://search.creativecommons.org
+
 
 ### Assessment 
 Final summative assessment will take place at the end of the first semester on the 15th of January 2015
