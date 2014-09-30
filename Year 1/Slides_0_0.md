@@ -21,7 +21,7 @@ Needs to Communication
 
 ## Style
 
-It can be fictious or documentary, up to you, your take, your impression, your pov, your film
+It can be fictitious or documentary style, up to you, your take, your impression, your POV, your film
 
 
 
