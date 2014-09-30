@@ -32,40 +32,40 @@ It can be fictious or documentary, up to you, your take, your impression, your p
 Vimeo Video School
 http://vimeo.com/videoschool/101
 
-![Alt Text](slides_0_0_resouce/vimeo.png)
+![Alt Text](slides_0_0_resource/vimeo.png)
 
 ---
 Cameo by Vimeo, LLC 
 https://appsto.re/gb/_tRSQ.i
 http://cameo.tv
 
-![Alt Text](slides_0_0_resouce/cameo.png)
+![Alt Text](slides_0_0_resource/cameo.png)
 
 ---
 Magisto Video Editor & Maker
 https://play.google.com/store/apps/details?id=com.magisto
 
-![Alt Text](slides_0_0_resouce/magisto.png)
+![Alt Text](slides_0_0_resource/magisto.png)
 
 ---
 
 Online web video editor
 https://popcorn.webmaker.org
 
-![Alt Text](slides_0_0_resouce/popcorn.png)
+![Alt Text](slides_0_0_resource/popcorn.png)
 
 ---
 GifBoom by TapMojo LLC
 https://appsto.re/gb/L_orB.i
 
-![Alt Text](slides_0_0_resouce/gifboom.png)
+![Alt Text](slides_0_0_resource/gifboom.png)
 
  ---
  
 SoundCloud - Music & Audio by SoundCloud Ltd.
 https://appsto.re/gb/_Dfdu.i
 
-![Alt Text](slides_0_0_resouce/soundcloud.png)
+![Alt Text](slides_0_0_resource/soundcloud.png)
 
  ---
  
@@ -73,14 +73,14 @@ Creative Commons licensed music
 http://jamendo.com
 http://search.creativecommons.org
 
-![Alt Text](slides_0_0_resouce/jam.png)
+![Alt Text](slides_0_0_resource/jam.png)
 
 --- 
 
 
 # Examples
 
-![Alt Text](slides_0_0_resouce/thing.png)
+![Alt Text](slides_0_0_resource/thing.png)
 
 ```
 Bathroom
