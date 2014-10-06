@@ -59,7 +59,7 @@ You should also visit the University library both in Winchester and at Southampt
 A full sketchbook and digital files that provide a record of the findings from your research activities.
 
 ### Learning Outcomes
-Please refer to the module descriptions in your Semester 01 guide where the Learning Outcomes for this module are listed in full.
+Please refer to the module descriptions where the Learning Outcomes for this module are listed in full.
 
 ## Aside
 
