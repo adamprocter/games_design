@@ -284,9 +284,14 @@ Start to consider a set of parameters/ rules/ values from which you might start 
 
 ![Original](slides_1_2_resource/1_2_BM_present copy ima.004.jpg)
 
+^ is the core idea that underpins the world he has created
+propergander / power state control so to communicate this ideas he has used history to help him think about how to communicate that message / identifying visual conventions / has become part of society / visual short hand  / hand is politics / does not imitate (don’t use the egypt iconography - use the ideas to generate the new Visual) russuian consructivism
+
 ---
 
 ![Original ](slides_1_2_resource/1_2_BM_present copy ima.005.jpg)
+
+^ here are clues to mine stuff / Sheparh fairy angluar expressionist/ communism
 
 ---
 
@@ -296,13 +301,18 @@ Start to consider a set of parameters/ rules/ values from which you might start 
 
 ![Original ](slides_1_2_resource/1_2_BM_present copy ima.007.jpg)
 
+^this informed 60’s - protest posters cuban - castro language
+
 ---
 
 ![Original ](slides_1_2_resource/1_2_BM_present copy ima.008.jpg)
 
+
 ---
 
 ![Original ](slides_1_2_resource/1_2_BM_present copy ima.009.jpg)
+
+^ emory Douglas
 
 ---
 
@@ -311,6 +321,8 @@ Start to consider a set of parameters/ rules/ values from which you might start 
 ---
 
 ![Original ](slides_1_2_resource/1_2_BM_present copy ima.011.jpg)
+
+^ Paris 1968 
 
 ---
 ![Original ](slides_1_2_resource/1_2_BM_present copy ima.012.jpg)
@@ -339,9 +351,17 @@ Start to consider a set of parameters/ rules/ values from which you might start 
 
 ![Original ](slides_1_2_resource/1_2_BM_present copy ima.019.jpg)
 
+^ all these elements combine to his Obey
+visuals say / dictator/  interchanges language - creates a number of posters using the same visual messages / short hand
+
+
 ---
 
 ![Original ](slides_1_2_resource/1_2_BM_present copy ima.020.jpg)
+
+^ fill in flash
+using food / tea to talk about England
+COLOUR
 
 ---
 
@@ -349,6 +369,14 @@ Start to consider a set of parameters/ rules/ values from which you might start 
 
 ---
 ![Original](slides_1_2_resource/1_2_BM_present copy ima.022.jpg)
+
+
+---
+
+# Assessment evidence
+
+- A visual proposal of your new world/ environment outlining an interpretation of the culture you researched at the British Museum.
+- All supporting work/ sketches/ notes/ photocopies etc – collated and bound.
 
 
 ---
