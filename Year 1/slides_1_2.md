@@ -285,13 +285,13 @@ Start to consider a set of parameters/ rules/ values from which you might start 
 ![Original](slides_1_2_resource/1_2_BM_present copy ima.004.jpg)
 
 ^ is the core idea that underpins the world he has created
-propergander / power state control so to communicate this ideas he has used history to help him think about how to communicate that message / identifying visual conventions / has become part of society / visual short hand  / hand is politics / does not imitate (don’t use the egypt iconography - use the ideas to generate the new Visual) russuian consructivism
+proper-gander / power state control so to communicate this ideas he has used history to help him think about how to communicate that message / identifying visual conventions / has become part of society / visual short hand  / hand is politics / does not imitate (don’t use the Egypt iconography - use the ideas to generate the new Visual) Russian constructivism
 
 ---
 
 ![Original ](slides_1_2_resource/1_2_BM_present copy ima.005.jpg)
 
-^ here are clues to mine stuff / Sheparh fairy angluar expressionist/ communism
+^ here are clues to mine stuff / angular expressionist/ communism
 
 ---
 
