@@ -32,7 +32,7 @@ You should also visit the University library both in Winchester and at Southampt
 
 
 ### Assessment evidence
-- A visual proposal of your new world/ enviroment outlining an interpretation of the culture you researched at the British Museum. 
+- A visual proposal of your new world/ environment outlining an interpretation of the culture you researched at the British Museum. (Slide deck)
 - All supporting work/ sketches/ notes/ photocopies etc – collated and bound.
 
 
