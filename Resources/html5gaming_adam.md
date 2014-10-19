@@ -16,9 +16,15 @@
 - http://www.superflashbros.net/as3sfxr/
 - http://terriblegames.com/spriteSomethingMac/
 - (Flash CC for animation! - maybe)
+	- http://www.adobe.com/devnet/flash/articles/using-sprite-sheet-generator.html
+
 
 ## MightyFingers Editor
 - https://www.youtube.com/watch?v=gzGHMRx3yz0
 
 ## Sprite Tools
 - http://www.leshylabs.com/apps/sstool/
+
+
+### Aside
+https://www.codeandweb.com/texturepacker
