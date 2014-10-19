@@ -19,8 +19,9 @@
 	- http://www.adobe.com/devnet/flash/articles/using-sprite-sheet-generator.html
 
 
-## MightyFingers Editor
+## MightyFingers Editor related tutorials
 - https://www.youtube.com/watch?v=gzGHMRx3yz0
+- http://www.gamefromscratch.com/post/2014/10/12/Guest-Tutorial-Creating-a-Game-Using-MightyEditor-and-Phaser.aspx
 
 ## Sprite Tools
 - http://www.leshylabs.com/apps/sstool/
