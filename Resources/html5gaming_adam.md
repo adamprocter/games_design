@@ -8,6 +8,7 @@
 ## Tutorials
 - http://www.lynda.com/Phaser-tutorials/Music-sound-effects/163641/184826-4.html
 - http://www.photonstorm.com/phaser/tutorial-making-your-first-phaser-game
+- http://blog.lessmilk.com/make-html5-games-with-phaser-1/
 
 
 ## Related tools
