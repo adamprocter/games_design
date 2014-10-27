@@ -15,12 +15,14 @@
 - http://www.kvazars.com/littera/
 - http://www.mapeditor.org/
 - http://www.superflashbros.net/as3sfxr/
+
 #### Making Sprites
 - http://terriblegames.com/spriteSomethingMac/
 - http://www.adobe.com/devnet/flash/articles/using-sprite-sheet-generator.html
 - http://aseprite.org/
 - http://www.leshylabs.com/apps/sstool/
 - http://games.ucla.edu/resource/game-maker-sprite-editor-pc-mac/
+- http://www.brashmonkey.com/download_spriter.htm
 
 
 ## MightyFingers Editor related tutorials
