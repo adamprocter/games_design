@@ -44,13 +44,13 @@ Glue/ Pencil/ Sketchbook/ Mac/ PC/ Pygame/
 Phaser.io / 
 
 ### Reference
-http://github.com/adamprocter/games_design
-http://inspiredm.com/inspired-talks-mills-of-ustwo%E2%84%A2-on-the-upcoming-whale-trail/
-https://en.wikipedia.org/wiki/Whale_Trail
-http://techcrunch.com/2013/10/10/whale-trail-tv/
-http://everythingisaremix.info/watch-the-series/
-https://www.nfb.ca/film/rip_a_remix_manifesto/
-https://webmaker.org/en-US/resources/literacy/weblit-Remix
+- http://github.com/adamprocter/games_design
+- http://inspiredm.com/inspired-talks-mills-of-ustwo%E2%84%A2-on-the-upcoming-whale-trail/
+- https://en.wikipedia.org/wiki/Whale_Trail
+- http://techcrunch.com/2013/10/10/whale-trail-tv/
+- http://everythingisaremix.info/watch-the-series/
+- https://www.nfb.ca/film/rip_a_remix_manifesto/
+- https://webmaker.org/en-US/resources/literacy/weblit-Remix
 
 
 ### Search words
