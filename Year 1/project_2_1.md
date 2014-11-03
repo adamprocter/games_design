@@ -25,12 +25,12 @@ to Franco Zefirelli’s 1960’s classic production. There are
 also some excellent A level study aids which include handy synopsis of the play- Cliffs Notes are good or you could try Charles & Mary Lamb’s retelling of Shakespeare published by Penguin.
 
 ###  Assessment evidence
-> Evidence that you have read Romeo & Juliet. This means notes and annotations on the text.
-> A series of visual brainstorms.
-> Drawings and notes from the Screening.
-> Material generated during the audio visual workshop.
-> At least 3 starting concepts related to a movement to utilise as a game mechanic.
-> Concept Presentation (Boards /Experiments)
+- Evidence that you have read Romeo & Juliet. This means notes and annotations on the text.
+- A series of visual brainstorms.
+- Drawings and notes from the Screening.
+- Material generated during the audio visual workshop.
+- At least 3 starting concepts related to a movement to utilise as a game mechanic.
+- Concept Presentation (Boards /Experiments)
 
 ### Learning Outcomes
 Please refer to the module descriptions where the Learning Outcomes for this module are listed in full.
