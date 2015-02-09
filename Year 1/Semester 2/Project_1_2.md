@@ -47,7 +47,7 @@ aren't coming. They're already here.
 
 http://www.openpaths.cc
 
-> OpenPaths is a secure data locker for personal location information. Using our mobile apps you can track your location, visualize where you've been, and upload your data to the OpenPaths website. 
+> OpenPaths is a secure data locker for personal location information. Using our mobile apps you can track your location, visualise where you've been, and upload your data to the OpenPaths website. 
 
 OpenStreetMap
 
@@ -74,7 +74,7 @@ Location based gaming / Geolocation gaming / Geocaching
 
 ### Crit
 
-On Monday the 23rd of Feb you will present your kickstarter preview page for the interim Crit.  
+On Monday the 2nd of March you will present your Kickstarter preview page for the interim Crit.  
 
 ### Research
 Your research should include: target audience and analysis.
