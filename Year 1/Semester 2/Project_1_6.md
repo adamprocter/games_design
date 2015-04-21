@@ -1,22 +1,22 @@
-# 1.6 Alices Adventures in Wonderland
+# 1.6 Alice's Adventures Underground
 
 ### Introduction 
 
 
 > 
 
-During this project you will use a structured process to develop a game prototype. You will need to collate, organise and prioritise the research within each theme (underground, gardens and oxford) along with an understanding of the Alice in Wonderland text to produce a vibrant portfolio of work and a working game prototype.
+During this project you will use a structured process to develop a game prototype. You will need to collate, organise and prioritise the research within each theme (underground, gardens and oxford) along with an understanding of the Alice's Adventures Underground text to produce a vibrant portfolio of work and a working game prototype.
 
-You game concept, documentation and prototype should embrace and be informed by the collated team theme (underground,oxford, gardens) research and the Alice in Wonderland Text.
+You game concept, documentation and prototype should embrace and be informed by the collated team theme (underground,oxford, gardens) research and the Alice's Adventures Underground text.
 
 - http://www.gutenberg.org/ebooks/19002
 
 
 ### Task  
 
-**Easter >**  Read the Story Alices Adventures in Wonderland. Think about it’s significance and make notes on anything it makes you think. What is it about? What are its main themes? Who are the characters? Can you draw any parallels with contemporary life? What is its tone of voice? What visual imagery does it conjure?
+**Easter Break >**  Read the Story Alice's Adventures Underground. Think about it’s significance and make notes on anything it makes you think. What is it about? What are its main themes? Who are the characters? Can you draw any parallels with contemporary life? What is its tone of voice? What visual imagery does it conjure?
 
-In teams you will each create materials and a prototype game. These materials can include concept art, level design documentation, rapid prototypes, paper prototypes, 2d and 3d assets, scripting (programming) tests, narrative development, character development, audio sample, video moodboards, pintrest boards.(this is not a exhaustive list.)
+**After Easter >** In teams you will each create materials and a prototype game. These materials can include concept art, level design documentation, rapid prototypes, paper prototypes, 2d and 3d assets, scripting (programming) tests, narrative development, character development, audio sample, video moodboards, pintrest boards.(this is not a exhaustive list.)
 
 This is a chance to culminate the skills and concepts from your previous workshops throughout Semester 1 and 2 such as user testing, agile methods, gameplay mechanics,  conditional design, 6 hats creative thinking, narrative branching, iterative concepts, user centred design, play testing, rules, design thinking, minimum viable products etc. You can consider themes from your contemporary issues work as well.  It is key that you use user feedback and rapid prototyping to iterate your ideas quickly and appropriately.
 
