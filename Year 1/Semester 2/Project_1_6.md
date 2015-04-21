@@ -67,5 +67,3 @@ http://wsa.wikidot.com/healthandsafety/
 
 It is the duty of all students to work in a safe & healthy manner and to have a duty of care unto yourself and others. Please ensure that you are aware of the relevant health and safety requirements for all activities that you undertake during your study. In particular you must refer to Studio & Workshop codes of practice, attend all mandatory & relevant training and refer to the traffic light system for equipment use. Please check with your academic staff if you are required to complete a project proposal from and/or specific risk assessment.
 
-# References
-Wikipedia |  Available at: https://en.wikipedia.org/wiki/Board_game (Accessed: 23 January 2015).
