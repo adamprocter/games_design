@@ -45,7 +45,8 @@ In total six games were created this way from different themes at the following 
 
 ### Assessment evidence
  
-- All supporting work/ sketches/ notes/ photocopies sketchbooks this should be collated and bound.
+ - Team Presentation of work from projects 1_3 > 1_6 on Thursday 14th of May to Staff.
+ - All supporting work/ sketches/ notes/ photocopies sketchbooks should be collated and bound for hand in after presentation on Thursday 14th of May.
 
 ### Learning Outcomes
 Please refer to the module description on sussed for full details on this module.
