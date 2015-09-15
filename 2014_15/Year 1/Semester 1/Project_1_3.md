@@ -13,22 +13,22 @@ At this stage of the course we want you to be quite broad in your interpretation
 
 Do not be deterred by what technically you can make, if you can’t make it, propose it through visuals, storyboards or animatics. You can use found sound and video to make. You need to sell the idea of the game to the rest of your cohort. 
 
-It’s the end of your first project so be ambitious and extend what you have done previously. It is OK if you make mistakes, you should be making mistakes at this stage of the course.
+It's the end of your first project so be ambitious and extend what you have done previously. It is OK if you make mistakes, you should be making mistakes at this stage of the course.
 
 This project is about ideas generation and this means throwing away as much as you keep, your presentation should convey the experience and the concept of your game that gets others excited about your idea.
 
 
 ### Research
 
-Designing Monument Valley - Ken Wong
-http://www.gdcvault.com/play/1020878/Designing-Monument-Valley-Less-Game
+- Designing Monument Valley - Ken Wong
+- http://www.gdcvault.com/play/1020878/Designing-Monument-Valley-Less-Game
 
-Live Case Study of making of Grid 2 (codemasters)
-https://vimeo.com/52926160  (see from 47mins 30 seconds)
+- Live Case Study of making of Grid 2 (codemasters)
+- https://vimeo.com/52926160  (see from 47mins 30 seconds)
 
-Open Journal of game development (click newer to see progression)
-http://retrogamecrunch.com/journal/?page=9
-http://retrogamecrunch.com/about/
+- Open Journal of game development (click newer to see progression)
+- http://retrogamecrunch.com/journal/?page=9
+- http://retrogamecrunch.com/about/
 
 ### Assessment evidence
  
