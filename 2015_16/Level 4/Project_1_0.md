@@ -18,13 +18,10 @@ Group locations http://dctr.pro/map
 1. Mollys Den
 2. Winnall Moors
 3. Skate Park
-4. The Hospital of St Cross
-5. Indoor Market
-6. Peninsula Barracks
-7. Molly’s Den
-8. Arboretum Gardens
-9. Cathedral Crypt
-10. D&G Hardware Store 
+4. Peninsula Barracks
+5. Hyde Abbey Gardens
+6. Cathedral Crypt
+7. D&G Hardware Store 
 
 #### TUESDAY
 All teams will be given a starter kit containing; cardboard, tape, pens, adhesive and found objects, but you should add to this from things that you find yourself. Use these to create the outcome of this project in the forms of a portable 3D structure. Each member of your team should contribute to the construction of your structure.
