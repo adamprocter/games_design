@@ -45,7 +45,9 @@ Board Games - Online Board Games - Play Boardgames, boardgamespub.com. Available
 
 BoardGameGeek | Gaming Unplugged Since 2000, boardgamegeek.com. Available at: http://www.boardgamegeek.com/ (Accessed: 23 January 2015).
 
-Spiel Essen
+Spiel - Essen - https://en.wikipedia.org/wiki/Spiel
+
+Going Cardboard: A Board Game Documentary - http://www.boardgamemovie.com/
 
 # Some example Board Games with different styles
 Mousetrap
@@ -54,7 +56,10 @@ Tic-Tac-Toe
 Settlers of Catan
 Dixit
 Buccaneer
-
+Ravensburger Labyrinth
+Takenoko 
+Railroads 
+Castles of Mad King Ludwig
 
 ### Assessment evidence
  
