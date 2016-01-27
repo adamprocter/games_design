@@ -29,7 +29,7 @@ In total six games were created this way from different themes at the following 
 
 Although these are video games this should give you some ideas around theme game construction and user feedback decision making.
 
-On Friday 6th of Feb we will invite staff and students to come and play your games, you will use this session to gain **additional** external user feedback and should consider this a user testing session. 
+On Friday 5th of Feb we will invite staff and students to come and play your games, you will use this session to gain **additional** external user feedback and should consider this a user testing session. 
 
 ### Research
 Your research should include: target audience / top played / your favourites, quickly analyse why a specific game is good.
