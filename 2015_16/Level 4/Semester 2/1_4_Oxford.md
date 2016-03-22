@@ -1,18 +1,18 @@
-# 1.5 Gardens
+# 1.4 Oxford
 
 ### Introduction 
 
 > The rabbit-hole went straight on like a tunnel for some way, and then dipped suddenly down, so suddenly that Alice had not a moment to think about stopping herself before she found herself falling down a very deep well.  
 - Lewis Carroll
 
-Your research should be much like the hole Alice feel into, all of a sudden you will find your self overwhelmed with material, you will need to consider it critically and create a system to organise your work.
+Your research should be much like the hole Alice fell into, all of a sudden you will find your self overwhelmed with material, you will need to consider it critically and create a system to organise your work.
 
-During this project you will use a structured process to collect and capture research on the theme "gardens". You should explore the idea of gardens in the broadest sense. As you start to uncover areas of interest focus your research.  Share your findings with others and use there input to help iterate you collection of materials, this must include a variety of sources, from online to first hand, observation drawing, book, objects, film, sound etc. The studio should in one week be transformed into a treasure trove of findings and you should decorate you spaces as quickly as possible. 
+During this project you will use a structured process to collect and capture research on the theme "Oxford". You should explore the idea of Oxford in the broadest sense. As you start to uncover areas of interest focus your research.  Share your findings with others and use there input to help iterate you collection of materials, this must include a variety of sources, from online to first hand, observation drawing, book, objects, film, sound etc. The studio should in one week be transformed into a treasure trove of findings and you should decorate you spaces as quickly as possible. 
 
 This week should involve quickly generating a system to collect your work and create a way to allow you to navigate this at a later date. Remember that you will be pulling this research back together to formalise a game concept and prototype after Easter in teams.
 
 ### Task  
-You will need to quickly research and more importantly investigate as many garden artists, designers and thinking as possible so you become a mini expert in the theme of 'Gardens'. You will need to collate the material in readiness to present your findings to each other in one week. You will not present all the material you have found but the sub set and the in-depth understanding or area you have delved into, the research MUST have breadth and depth. Try and be as open to idea generation as possible. 
+You will need to quickly research and more importantly investigate as many garden artists, designers and thinking as possible so you become a mini expert in the theme of 'Oxford'. You will need to collate the material in readiness to present your findings to each other in one week. You will not present all the material you have found but the sub set and the in-depth understanding or area you have delved into, the research MUST have breadth and depth. Try and be as open to idea generation as possible. 
 
 You may for example be interested in the London underground system and your research revolves around this system, the graphic art work and you then focus on subway way finding systems. You would thus present your journey and then present the systems you have found, what is of interest to you and you should aim to excite each other with your findings!
 
@@ -26,16 +26,21 @@ Taxonomy
 Folksonomy
 
 ### Starter links
-- http://gamecity.org/alices-adventures-off-the-map/gardens
+- http://gamecity.org/off-the-map-2015/Oxford
 
 
 ### Capture Systems
 Evernote
-Ember App
 Papers App
 A Wiki
 A Blog
+Padlet
+Niice
+OneNote
 
+### Present
+
+On Monday the 14th of March you will present your research findings to each other. The format this takes will be up to you, it could be Prezi, video, sketchbooks or a combination of all 3, you select the most appropriate way to present your findings. You should think hard about your presentation and use all of the Schools resource that you require to present in.
 
 ### Research
 Your research should include: target audience and analysis.
@@ -54,7 +59,7 @@ Please refer to the module description on sussed for full details on this module
 ## Aside
  
 ### Assessment 
-Final summative assessment will take place on the 14th of May 2015. 
+Final summative assessment will take place on the 12th of May 2015. 
 
 ### Tutors
 Adam Procter, Andy Lapham, James Stallwood.

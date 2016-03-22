@@ -1,11 +1,11 @@
-# 1.4 Gardens
+# 1.3 Gardens
 
 ### Introduction 
 
 > The rabbit-hole went straight on like a tunnel for some way, and then dipped suddenly down, so suddenly that Alice had not a moment to think about stopping herself before she found herself falling down a very deep well.  
 - Lewis Carroll
 
-Your research should be much like the hole Alice feel into, all of a sudden you will find your self overwhelmed with material, you will need to consider it critically and create a system to organise your work.
+Your research should be much like the hole Alice fell into, all of a sudden you will find your self overwhelmed with material, you will need to consider it critically and create a system to organise your work.
 
 During this project you will use a structured process to collect and capture research on the theme "gardens". You should explore the idea of gardens in the broadest sense. As you start to uncover areas of interest focus your research.  Share your findings with others and use there input to help iterate you collection of materials, this must include a variety of sources, from online to first hand, observation drawing, book, objects, film, sound etc. The studio should in one week be transformed into a treasure trove of findings and you should decorate you spaces as quickly as possible. 
 
@@ -26,7 +26,7 @@ Taxonomy
 Folksonomy
 
 ### Starter links
-- http://gamecity.org/alices-adventures-off-the-map/gardens
+- http://gamecity.org/off-the-map-2015/gardens
 
 
 ### Capture Systems
@@ -36,7 +36,11 @@ A Wiki
 A Tumblr
 Padlet
 Niice
+OneNote
 
+### Present
+
+On Monday the 7th of March you will present your research findings to each other. The format this takes will be up to you, it could be Prezi, video, sketchbooks or a combination of all 3, you select the most appropriate way to present your findings. You should think hard about your presentation and use all of the Schools resource that you require to present in.
 
 ### Research
 Your research should include: target audience and analysis. First hand research must be undertaken. 
